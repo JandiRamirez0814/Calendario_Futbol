@@ -4,8 +4,7 @@ En base a lo requerido para la elaboración del proyecto final de la materia Ana
 
 En este repositorio se observaran diferentes carpetas, las cuales son:
 
-- **Funcionales:  ** Carpeta que contiene los archivos de codigo que generan el calendario.
-- **Pruebas:  ** Que contiene los archivos destinados a comprobar el tiempo y espacio requeridos en función de la entrada.
+- **Funcionales:  ** Carpeta que contiene los archivos de codigo que generan el calendario y las pruebas de tiempo y espacio.
 - **txt_pruebas:  ** Contiene algunos archivos de ejemplo de entrada.
 - **docs:  ** Contiene la documentación del proyecto.
 ####Tecnologías utilizadas:
@@ -14,12 +13,17 @@ En este repositorio se observaran diferentes carpetas, las cuales son:
 
 ####Librerías utilizadas:
 - tkinter
+- random
+- os
+- psutil
+- time
 
 ###Ejecución:
-Una vez descargado el proyecto al ubicarse en cada archivo **.py** basta con dar click en el boton **run** para ejecutar cada archivo donde se encuentra la implementación requerida y una vez ejecutado en la terminal se muestran los resultados correspondientes a cada archivo que se ejecute.
+Una vez que hayas descargado el proyecto, para ejecutar cada archivo **.py,**  se deberá primero crear un entorno virtual e instalar las librerias contenidas en el archivo **requeriments.txt**, y una vez activado el entorno se pueden ejecutar los archivos por la terminal donde se mostrarn los resultados.
 
-Dentro de cada carpeta se encontrarán archivos **READMY.md** que explicarán acerca de la ejecución y funcionalidades más detalladamente.
+Dentro de la carpeta **Funcionales**, encontrarás el archivo README.md que proporciona las explicaciones detalladas sobre la ejecución y las funcionalidades específicas de cada archivo.
 
+En la carpeta principal encontrarás adicionalmente un imforme más detallado del proyecto llamado Calendario.pdf y un archivo **.pdf** con la documentación del proyecto, también será posible navegar en un menú la documentación del proyecto, esto se explicará en el archivo **READMY.md** dentro de la carpeta **Funcionalidades**.
 ###Colaboradores:
 - [![1](https://co.pinterest.com/pin/1003458360712289212/ "1")](https://github.com/minizyke "1")
 

@@ -1,15 +1,15 @@
-.. PROYECTO ADA documentation master file, created by
-   sphinx-quickstart on Sun Dec 17 18:22:17 2023.
+.. PROYECTO_ADA documentation master file, created by
+   sphinx-quickstart on Mon Dec 18 20:54:08 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PROYECTO ADA's documentation!
+Welcome to PROYECTO_ADA's documentation!
 ========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
+
    modules
 
 Indices and tables

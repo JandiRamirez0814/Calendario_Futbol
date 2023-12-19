@@ -11,18 +11,18 @@ import sys
 
 sys.path.insert(0, os.path.abspath('../..'))
 
-project = 'PROYECTO ADA'
+project = 'PROYECTO_ADA'
 copyright = '2023, Jandi Ramirez, Paula Lemus, Camilo Viedma'
 author = 'Jandi Ramirez, Paula Lemus, Camilo Viedma'
-release = '1.0'
+release = '1.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode', 'sphinx.ext.todo']
+extensions = ["sphinx_rtd_theme", "sphinx.ext.autodoc", "sphinx.ext.viewcode"]
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 language = 'es'
 
