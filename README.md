@@ -7,6 +7,7 @@ En este repositorio se observaran diferentes carpetas, las cuales son:
 - **Funcionales:  ** Carpeta que contiene los archivos de codigo que generan el calendario y las pruebas de tiempo y espacio.
 - **txt_pruebas:  ** Contiene algunos archivos de ejemplo de entrada.
 - **docs:  ** Contiene la documentación del proyecto.
+
 ####Tecnologías utilizadas:
 - Python
 - Sphinx
