@@ -7,7 +7,6 @@
 
 # Description: Programa para medir el uso de memoria de generar_calendario por algoritmo y por sol_ingenua.
 
-
 import random
 import os
 import psutil
