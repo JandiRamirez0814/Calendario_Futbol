@@ -25,6 +25,7 @@ Dentro de la carpeta **Funcionales**, encontrarás el archivo README.md que prop
 
 En la carpeta principal encontrarás adicionalmente un imforme más detallado del proyecto llamado Calendario.pdf y un archivo **.pdf** con la documentación del proyecto, también será posible navegar en un menú la documentación del proyecto, esto se explicará en el archivo **READMY.md** dentro de la carpeta **Funcionalidades**.
 
+
 ###Colaboradores:
 - [![1](https://co.pinterest.com/pin/1003458360712289212/ "1")](https://github.com/minizyke "1")
 
