@@ -9,10 +9,12 @@ En este repositorio se observaran diferentes carpetas, las cuales son:
 - **docs:  ** Contiene la documentación del proyecto.
 
 ####Tecnologías utilizadas:
+
 - Python
 - Sphinx
 
 ####Librerías utilizadas:
+
 - tkinter
 - random
 - os
@@ -20,6 +22,7 @@ En este repositorio se observaran diferentes carpetas, las cuales son:
 - time
 
 ###Ejecución:
+
 Una vez que hayas descargado el proyecto, para ejecutar cada archivo **.py,**  se deberá primero crear un entorno virtual e instalar las librerias contenidas en el archivo **requeriments.txt**, y una vez activado el entorno se pueden ejecutar los archivos por la terminal donde se mostrarn los resultados.
 
 Dentro de la carpeta **Funcionales**, encontrarás el archivo README.md que proporciona las explicaciones detalladas sobre la ejecución y las funcionalidades específicas de cada archivo.
@@ -28,6 +31,7 @@ En la carpeta principal encontrarás adicionalmente un imforme más detallado de
 
 
 ###Colaboradores:
+
 - [![1](https://co.pinterest.com/pin/1003458360712289212/ "1")](https://github.com/minizyke "1")
 
 - [![2](https://co.pinterest.com/pin/1003458360712289190/ "2")](https://github.com/MiniZaky "2")
